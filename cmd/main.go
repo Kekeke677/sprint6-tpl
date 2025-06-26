@@ -1,5 +1,6 @@
 package main
 
+//нет необходимости нажимать merge
 import (
 	"log"
 	"os"
